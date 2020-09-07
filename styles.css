@@ -1,0 +1,133 @@
+img {
+  padding: 0 100px;
+}
+article {
+  margin-top: 180px;
+}
+
+header {
+  width: 100%;
+  height: 40px;
+  margin: auto;
+  border-bottom: 2px solid #3d8fdb;
+  padding: auto;
+  font-family: "Roboto", sans-serif;
+}
+main {
+  font-family: "Roboto", sans-serif;
+}
+h1 {
+  position: absolute;
+  padding: auto;
+  float: left;
+  margin: auto;
+  font-family: "Roboto", sans-serif;
+  color: cadetblue;
+  text-shadow: 3px 3px 5px  rgb(173, 173, 97);
+}
+li {
+  display: inline-block;
+  padding: auto;
+  font-family: "Roboto", sans-serif;
+  font-weight: bold;
+}
+h2 {
+  font-size: 50px;
+  font-family: "Roboto", sans-serif;
+  color: rgb(173, 173, 97);
+  text-align: center;
+  margin: 0px;
+ 
+}
+.damn {
+  background-color: rgb(228, 220, 220);
+}
+#back {
+  background-image: url(../img_css/City_Landscape_Background.jpg);
+  background-size: cover;
+  width: 100%;
+  height: 950px;
+  
+  overflow: hidden;
+}
+a:link {
+  color: hotpink;
+}
+a:visited {
+  color: rgb(112, 44, 112);
+}
+a:hover {
+  color: red;
+}
+a:active {
+  color: green;
+}
+p {
+  text-align: center;
+  font-size: 25px;
+  font-style: italic;
+  font-weight: bold;
+ 
+  padding: 10px 0;
+}
+
+iframe {
+  padding: 25px 33.3%;
+  width: 40%;
+  height: 500px;
+}
+
+table {
+  width: 20%;
+  margin-left: 40%;
+  margin-top: 15%;
+  margin-bottom: 70%;
+}
+audio {
+  margin-left: 40%;
+  margin-top: 15%;
+}
+form {
+  margin-top: 15%;
+  margin-left: 40%;
+}
+label,
+input {
+  margin: 15px 0;
+  padding: 0 10px;
+  font-family: "Roboto", sans-serif;
+  font-weight: bold;
+}
+
+th,td {
+  font-family: "Roboto", sans-serif;
+}
+footer{
+  font-weight: bold;
+}
+th {
+  font-style: italic;
+  color: coral;
+}
+.demo {
+ background-image: url(../img_css/img2.jpg);
+ background-repeat: no-repeat;
+ width: 100%;
+ height: 960px;
+ background-size: 100%;
+}
+.demo1 {
+ background-color: floralwhite;
+ height: 960px;
+}
+.demo2 {
+  margin-bottom: 0%;
+  background-image: url(../img_css/Savin-NY-Website-Background-Web.jpg);
+  background-size: cover;
+  height: 960px;
+  }
+  .demo3 {
+    height: 960px;
+    background-image: url(../img_css/PubNative-Web-Background-Design.png);
+    background-size: cover;
+  }
